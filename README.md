@@ -22,9 +22,9 @@ Create Svelte scaffold by degit.
 degit sveltejs/template myfirstsmelt
 ```
 
-Install Smelte
+Install Svelte Material UI
 ```
-npm install smelte
+npm install --save-dev svelte-material-ui
 ```
 
 ## Get started
