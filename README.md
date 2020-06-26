@@ -17,9 +17,9 @@ cd svelte-app
 
 ## How did this project get started
 
-Create Svelte scaffold by digit.
+Create Svelte scaffold by degit.
 ```
-digit sveltejs/template myfirstsmelt
+degit sveltejs/template myfirstsmelt
 ```
 
 Install Smelte
