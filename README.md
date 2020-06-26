@@ -16,8 +16,15 @@ cd svelte-app
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 ## How did this project get started
+
+Create Svelte scaffold by digit.
 ```
 digit sveltejs/template myfirstsmelt
+```
+
+Install Smelte
+```
+npm install smelte
 ```
 
 ## Get started
